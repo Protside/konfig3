@@ -1,0 +1,3 @@
+const app_name = "MyApp";
+const version = "1.0.0";
+const features = ("feature1", "feature2", "feature3");

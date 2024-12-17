@@ -1,0 +1,4 @@
+db_name = "my_database"
+db_user = "admin"
+db_password = "secret"
+db_hosts = [ "localhost", "192.168.1.10",]
